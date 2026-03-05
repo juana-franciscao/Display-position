@@ -1,28 +1,34 @@
-body{
+body {
     display: flex;
     align-items: flex-start;
 }
 
-.blue{
+.blue {
     padding: 20px;
     background-color: blue;
 }
 
-.yo{
+.yo {
     padding: 20;
     margin: 10px;
     background-color: yellow;
-
 }
 
-.red{
+.red {
     padding-right: 80px;
     background-color: red;
 }
-.green{
+
+.green {
     padding-bottom: 80px;
     background-color: green;
 }
-.flex{
+
+.pink{
+    padding-bottom:80px ;
+    background-color: pink;
+}
+
+.flex {
     display: flex;
 }
