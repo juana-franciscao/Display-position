@@ -29,6 +29,10 @@ body {
     background-color: pink;
 }
 
+.purple{
+    width: 120px;
+} 
 .flex {
     display: flex;
 }
+
